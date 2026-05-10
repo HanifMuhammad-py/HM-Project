@@ -1,3 +1,7 @@
+
+# MINI PROJECT 001
+# Warung POS - Simple Point of Sale System
+
 import os
 import random
 import string
