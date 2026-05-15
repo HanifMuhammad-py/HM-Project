@@ -17,7 +17,8 @@ def input_data() :
     no_hp = input("Masukan No.HP : ")
     layanan = input("Masukan Jenis Layanan : ")
 
-    ascii = ''.join((random.choice(string.ascii_uppercase) for i in range(6)))
+    
+    
     main_table[ascii] = {
         "NM" : nama,
         "NO" : no_hp,
