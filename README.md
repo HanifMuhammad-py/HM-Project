@@ -37,3 +37,35 @@ Features:
 - Daily financial report with profit/loss indicator
 - Clean formatted table output
 
+
+MINI PROJECT 003
+CustomerBase - Simple Customer Data Management System
+A command-line customer data management system built in Python,
+designed for small service-based businesses (UMKM) such as salons,
+barbershops, and repair shops. Supports adding customer profiles,
+viewing records, searching by name, and deleting entries.
+
+Built with: Python 3 | Dictionary | Random ID Generation | String Manipulation
+
+Features:
+- Add new customer with name, phone number, and service type
+- View all customers in formatted table
+- Search customer by name (case-insensitive)
+- Delete customer record by ID
+
+
+MINI PROJECT 004
+StockSense - Simple Inventory Management System
+A lightweight command-line inventory management tool built in Python,
+designed for small retail businesses (UMKM) such as grocery stores
+and general goods shops. Enables owners to manage product stock,
+update quantities by product name, and monitor low-stock items.
+
+Built with: Python 3 | Dictionary | Random ID Generation | String Manipulation
+
+Features:
+- Add new product with name, category, price, and stock quantity
+- View all products in formatted table
+- Update stock by product name (case-insensitive search)
+- Monitor low-stock alert (stock below 5 units)
+
