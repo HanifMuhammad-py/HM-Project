@@ -396,7 +396,7 @@ while True :
             Hapus_Data_Customer()
         elif input_modul_Customer == "5" :
             pass
-    if main_menu == "4" :
+    elif main_menu == "4" :
         print('Masukan "1" Untuk Tambah Barang')
         print('Masukan "2" Untuk Lihat Sisa Stock')
         print('Masukan "3" Untuk Update Jumlah Stock')
@@ -415,5 +415,7 @@ while True :
             Check_Stock_Menipis()
         elif main_menu == "5" :
             pass
-    if main_menu == "5" :
+    elif main_menu == "5" :
         Laporan_Harian()
+    elif main_menu == "6" :
+        break
