@@ -69,3 +69,21 @@ Features:
 - Update stock by product name (case-insensitive search)
 - Monitor low-stock alert (stock below 5 units)
 
+
+
+PROJECT 005
+SVOR Business Suite - Integrated UMKM Management System
+A comprehensive command-line business management suite built in Python,
+designed as an all-in-one solution for small-medium businesses (UMKM).
+Integrates four core modules — POS, Finance, Customer, and Inventory —
+with a unified daily report dashboard.
+
+Built with: Python 3 | Dictionary | OOP-ready | Datetime | String Manipulation
+
+Modules:
+- POS Module      : Order entry, tracking, and revenue calculation
+- Finance Module  : Expense recording and profit/loss reporting  
+- Customer Module : CRM with search, update, and delete
+- Inventory Module: Stock management with low-stock alerts
+- Daily Report    : Unified summary across all modules
+
